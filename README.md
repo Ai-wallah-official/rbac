@@ -40,7 +40,7 @@ on their assigned roles and permissions.
 - **Managers** can manage products and categories
 - **Customers** can browse and view products
 
-Live URL: [https://rbac.task.nlciinstitute.com](https://rbac.task.nlciinstitute.com)
+Live URL: [https://task.sanehwal.com](https://task.sanehwal.com)
 
 ---
 
